@@ -1,2 +1,2 @@
-# vsu-pytorch
-vsu-pytorch
+# Пример обучения классификтора цифр MNIST на PyTorch
+
